@@ -12,5 +12,18 @@ The entity relationship diagram is attached to aid the visualizing of the table 
 
 As a newly employed data analyst, you are expected to analyse the dataset and generate insights which will aid data-driven decision making. Important insights should be visualized using a business intelligence tool for presentation to stakeholders.
 
+
+
 ## DELIVERABLES
-•	A dashboard showing generated insights.
+A dashboard showing generated insights.
+
+
+# VIEW MY VISUALIZATION BELOW
+
+![parch and posey sales report](https://user-images.githubusercontent.com/95649144/233806469-71ba7ec0-ffb3-415d-b2c3-185c01e159fb.PNG)
+
+
+
+
+
+
